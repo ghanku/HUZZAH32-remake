@@ -1,24 +1,16 @@
-# HUZZAH32-remake
 <img src="assets/HUZZAH32_3D_TOP.png" width="611" height=auto />
 <img src="assets/HUZZAH32_3D_BOT.png" width="611" height=auto />
 
-# Open Hardware Template
-This is a skeleton for open hardware projects, based on KiCad designs for the schematics and PCB, and some software. 
-
-**New:** There is now a bash script rename.sh that simplifies this task.
-
-Please do NOT make your own designs forks of this template on Github.
+# HUZZAH32-remake
+This project is recreation of the Adafruit HUZZAH32 PCB ([see link](https://www.adafruit.com/product/3405)) using Altium. the main goal was to learn professional PCB design in Altium.
 
 ## PCB Production
-The design rules are set up for OSH Park, but double-check they fit your needs before using them. 
+If you want to build this board please use the gerbers located in [PCB Manufacturing](https://github.com/ghanku/HUZZAH32-remake/tree/main/PCB%20Manufacturing). 
 
-Please do not forget to add the text "Licensed under CERN OHL v.1.2" to the silkscreen of the PCB and to the schematics.
+## License
 
-## Disclaimer
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
