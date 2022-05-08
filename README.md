@@ -1,7 +1,6 @@
 # HUZZAH32-remake
-![3D TOP](assets/HUZZAH32_3D_TOP.png)
-
-![3D BOT](assets/HUZZAH32_3D_BOT.png)
+<img src="assets/HUZZAH32_3D_TOP.png" width="611" height=auto />
+<img src="assets/HUZZAH32_3D_BOT.png" width="611" height=auto />
 
 # Open Hardware Template
 This is a skeleton for open hardware projects, based on KiCad designs for the schematics and PCB, and some software. 
